@@ -1,0 +1,90 @@
+/* ===== General Styling ===== */
+body {
+  font-family: "Segoe UI", Roboto, -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  color: #222; /* darker text for readability */
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  background-color: #fdfdfd; /* soft off-white background */
+}
+
+/* Container */
+.work-section {
+  max-width: 850px;
+  margin: auto;
+  padding: 1.5rem 1rem;
+}
+
+/* Section title */
+h2 {
+  text-transform: uppercase;
+  color: #333; /* subtle dark gray */
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  font-size: 1.7rem;
+}
+
+/* Role titles */
+h3 {
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #111;
+  margin-top: 1.2rem;
+  margin-bottom: 0.2rem;
+}
+
+/* Duration styling */
+.work-duration {
+  color: #d62828; /* muted red for duration */
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+/* Company links */
+a {
+  color: #0077b6; /* soft blue for links */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Bullet points */
+ul {
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+li {
+  margin-bottom: 0.8rem;
+  text-align: justify; /* justified for readability */
+  color: #222;
+  font-size: 1rem;
+}
+
+/* Optional subtle separation between roles */
+h3 + ul {
+  margin-top: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .work-section {
+    padding: 1rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.15rem;
+  }
+
+  li {
+    font-size: 0.98rem;
+  }
+}

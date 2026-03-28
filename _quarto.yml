@@ -7,8 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: education.qmd
-        text: Education
+      - text: Academics
+        menu:
+          - href: education.qmd
+            text: Education
+          - href: work.qmd
+            text: Work Experience
       - href: research.qmd
         text: Research
       - href: publications.qmd
@@ -25,5 +29,6 @@ format:
     theme: lux
     css:
       - index.css
+      - education.css
     toc: true
     

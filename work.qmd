@@ -1,0 +1,23 @@
+---
+title: "Work Experience"
+format: html
+css: work.css
+---
+
+### Language analyst
+
+**Duration:** [Jul 2025 – Ongoing]{.work-duration}\
+**Company:** <a href="https://www.icfoss.in/" target="_blank" rel="noopener noreferrer">International Centre for Free and Open Source Software (ICFOSS)</a>
+
+-   Defined phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives.\
+-   Processed and curated a 300K-token Malayalam corpus for POS, chunking, NER tagging and ensured quality and consistency for LLM training.\
+-   Developed a 170K-word Malayalam lexical dictionary with systematic rule-based validation and quality assurance.
+
+### Phonetics intern
+
+**Duration:** [Oct 2023 – Nov 2023]{.work-duration}\
+**Company:** <a href="https://livingtongues.org/" target="_blank" rel="noopener noreferrer">Living Tongues Institute for Endangered Languages (LTIEL)</a>
+
+-   Conducted data annotation and segmentation for Mundari, a Munda language of the Austroasiatic family, using Praat.\
+-   Performed detailed acoustic and auditory analyses of speech data to identify key linguistic features.\
+-   Supported language documentation efforts by analyzing phonetic and phonological patterns.

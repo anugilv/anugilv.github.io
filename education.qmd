@@ -1,0 +1,38 @@
+---
+title: "Education"
+format: html
+css: education.css
+---
+
+<div class="education-section">
+
+<!-- MSc Forensic Phonetics -->
+<div class="edu-card">
+  <div class="edu-duration">Sep 2022 – Oct 2023</div>
+  <h3 class="edu-degree">MSc Forensic Phonetics</h3>
+  <p class="edu-institute">University of York, UK</p>
+  <p class="edu-details"><em>Awaiting Graduation</em></p>
+</div>
+
+<!-- MPhil Linguistics -->
+<div class="edu-card">
+  <div class="edu-duration">Sep 2018 – Jun 2020</div>
+  <h3 class="edu-degree">MPhil Linguistics</h3>
+  <p class="edu-institute">University of Kerala, India</p>
+</div>
+
+<!-- MA Linguistics -->
+<div class="edu-card">
+  <div class="edu-duration">Aug 2013 – Apr 2016</div>
+  <h3 class="edu-degree">MA Linguistics</h3>
+  <p class="edu-institute">University of Kerala, India</p>
+</div>
+
+<!-- BSc Chemistry -->
+<div class="edu-card">
+  <div class="edu-duration">Jun 2010 – Apr 2013</div>
+  <h3 class="edu-degree">BSc Chemistry</h3>
+  <p class="edu-institute">University of Calicut, India</p>
+</div>
+
+</div>

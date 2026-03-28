@@ -1,0 +1,72 @@
+/* ===== Education Section Styling ===== */
+
+.education-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;       /* space between cards */
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+
+/* Individual education cards */
+.edu-card {
+  background-color: #ffffff;
+  border-left: 4px solid #a00000; /* accent color */
+  padding: 1rem 1.2rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  border-radius: 8px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.edu-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+/* Duration styling */
+.edu-duration {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #a00000;
+  margin-bottom: 0.3rem;
+}
+
+/* Degree / Program - Sentence case */
+.edu-degree {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #111;
+  margin-bottom: 0.2rem;
+  text-transform: none; /* ensures sentence capitalization */
+}
+
+/* Institute name */
+.edu-institute {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 0.2rem;
+}
+
+/* Additional details (e.g., Awaiting Graduation) */
+.edu-details {
+  font-size: 0.95rem;
+  color: #555;
+  font-style: italic;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+  .edu-card {
+    padding: 0.8rem 1rem;
+  }
+
+  .edu-degree {
+    font-size: 1.1rem;
+  }
+
+  .edu-details {
+    font-size: 0.9rem;
+  }
+}

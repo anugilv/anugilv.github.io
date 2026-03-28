@@ -1,6 +1,6 @@
 ---
-title: "Home"
 format: html
+css: index.css
 ---
 
 <div class="hero">
