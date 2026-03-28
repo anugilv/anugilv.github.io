@@ -9,7 +9,7 @@ format: html
 
 <div class="hero-text">
 
-<<h2 class="name">ANUGIL VELAYUDHAN</h2>
+<h2 class="name">ANUGIL VELAYUDHAN</h2>
 
 <p class="phonetic">[ˈanuɡil ˈʋeːlaːjud̪ʱan]</p>
 
