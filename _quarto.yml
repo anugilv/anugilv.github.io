@@ -5,7 +5,7 @@ project:
 website:
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Home
       - href: education.qmd
         text: Education
@@ -24,6 +24,6 @@ format:
   html:
     theme: lux
     css:
-      - index.css
+      - home.css
     toc: true
     
