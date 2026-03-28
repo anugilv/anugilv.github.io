@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anugil Velayudhan"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: blogs.qmd
+        text: Blogs
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: lux
+    css:
+      - home.css
+    toc: true
+    

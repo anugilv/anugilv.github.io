@@ -1,0 +1,147 @@
+/* ===== Global Styling ===== */
+
+/* Navbar left-align */
+.navbar-nav {
+  justify-content: flex-start !important;
+}
+
+.navbar-nav .nav-link {
+  text-align: left;
+}
+
+body {
+  background-color: #ffffff; 
+  color: #111;              
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Page width */
+.page-content {
+  max-width: 1000px;   /* slightly wider to prevent wrapping */
+  margin: auto;
+  padding: 1rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #111;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1.2rem;   
+  font-weight: 400;        
+  color: #111;              
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Hero Section ===== */
+
+.hero {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: nowrap;
+}
+
+/* Profile Image */
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+/* Text container */
+.hero-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Name */
+.name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111;
+  margin-bottom: 0.2rem;
+}
+
+/* IPA / Phonetic */
+.phonetic {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
+  font-weight: 500;
+  color: #111;
+  margin-bottom: 0.6rem;
+  font-size: 1.1rem;
+}
+
+/* Role / Details */
+.details {
+  color: #333;
+  margin-bottom: 0.4rem;
+  font-weight: 400;
+}
+
+/* Location */
+.location {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #333;
+  margin-bottom: 0.8rem;
+  font-weight: 400;
+}
+
+/* Icons */
+.icons a {
+  margin-right: 12px;
+  font-size: 1.3rem;
+  color: #a00000;
+}
+
+.icons a:hover {
+  opacity: 0.7;
+}
+
+/* ===== Mobile ===== */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* ===== Biography Section ===== */
+.bio, .bio p {
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #111;         
+  font-weight: 400;    
+}
+
+.bio a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.bio a:hover {
+  text-decoration: underline;
+}
