@@ -6,7 +6,7 @@ website:
   title: "Anugil Velayudhan"
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: education.qmd
         text: Education
@@ -25,6 +25,6 @@ format:
   html:
     theme: lux
     css:
-      - home.css
+      - index.css
     toc: true
     
