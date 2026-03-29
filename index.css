@@ -1,52 +1,3 @@
-/* ===== Global Styling ===== */
-
-/* Navbar left-align */
-.navbar-nav {
-  justify-content: flex-start !important;
-}
-
-.navbar-nav .nav-link {
-  text-align: left;
-}
-
-body {
-  background-color: #ffffff; 
-  color: #111;              
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-}
-
-/* Page width */
-.page-content {
-  max-width: 1000px;   /* slightly wider to prevent wrapping */
-  margin: auto;
-  padding: 1rem;
-}
-
-/* Headings */
-h1, h2, h3 {
-  font-weight: 600;
-  color: #111;
-}
-
-/* Paragraphs */
-p {
-  margin-bottom: 1.2rem;   
-  font-weight: 400;        
-  color: #111;              
-}
-
-/* Links */
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 /* ===== Hero Section ===== */
 
 .hero {
@@ -118,14 +69,6 @@ a:hover {
 
 .icons a:hover {
   opacity: 0.7;
-}
-
-/* ===== Mobile ===== */
-@media (max-width: 768px) {
-  .hero {
-    flex-direction: column;
-    text-align: center;
-  }
 }
 
 /* ===== Biography Section ===== */
