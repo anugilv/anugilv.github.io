@@ -1,72 +1,97 @@
-/* ===== Education Section Styling ===== */
+/* ===== Card Component (Clean + Minimal) ===== */
 
-.education-section {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;       /* space between cards */
-  max-width: 900px;
-  margin: auto;
-  padding: 1rem;
+.card-item {
+  padding: 1.2rem 1.3rem;
+  margin-bottom: 1rem;
+
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 12px;
+
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
 }
 
-/* Individual education cards */
-.edu-card {
-  background-color: #ffffff;
-  border-left: 4px solid #a00000; /* accent color */
-  padding: 1rem 1.2rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  border-radius: 8px;
-  transition: transform 0.2s, box-shadow 0.2s;
+/* Hover */
+.card-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
 }
 
-.edu-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+/* ===== Typography ===== */
+
+/* Section titles (Education, Work Experience) */
+h2 {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #000;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  text-transform: none; /* ensures NOT capitalised */
 }
 
-/* Duration styling */
-.edu-duration {
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: #a00000;
-  margin-bottom: 0.3rem;
+/* Card titles */
+.card-item h3 {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
+  font-size: 1.18rem;
+  font-weight: 600;
+  color: #000;
+  margin: 0.25rem 0;
+  text-transform: none;
 }
 
-/* Degree / Program - Sentence case */
-.edu-degree {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: #111;
-  margin-bottom: 0.2rem;
-  text-transform: none; /* ensures sentence capitalization */
-}
-
-/* Institute name */
-.edu-institute {
+/* Body text */
+.card-item p,
+.card-item li {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
   font-size: 1rem;
+  font-weight: 450;
+  color: #111;
+  line-height: 1.65;
+}
+
+/* Justify only list items */
+.card-item li {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
+  text-align: justify;
+}
+
+/* Lists */
+.card-item ul {
+  margin-top: 0.55rem;
+  padding-left: 1.25rem;
+}
+
+.card-item li {
+  margin-bottom: 0.5rem;
+}
+
+/* ===== Links ===== */
+
+.card-item a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.card-item a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Meta ===== */
+
+/* Date */
+.card-date {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
+  font-size: 0.85rem;
   font-weight: 500;
-  color: #333;
-  margin-bottom: 0.2rem;
+  color: #6b7280;
+  margin-bottom: 0.35rem;
 }
 
-/* Additional details (e.g., Awaiting Graduation) */
-.edu-details {
-  font-size: 0.95rem;
-  color: #555;
-  font-style: italic;
-}
-
-/* Responsive for mobile */
-@media (max-width: 768px) {
-  .edu-card {
-    padding: 0.8rem 1rem;
-  }
-
-  .edu-degree {
-    font-size: 1.1rem;
-  }
-
-  .edu-details {
-    font-size: 0.9rem;
-  }
+/* Secondary text */
+.subtle {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #666;
 }

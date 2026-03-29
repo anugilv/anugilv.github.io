@@ -7,18 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Academics
-        menu:
-          - href: education.qmd
-            text: Education
-          - href: work.qmd
-            text: Work Experience
+      - href: education.qmd
+        text: Academics
       - href: research.qmd
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: presentations.qmd
-        text: Presentations
       - href: blogs.qmd
         text: Blogs
       - href: cv.qmd

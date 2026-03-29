@@ -1,44 +1,30 @@
 [
   {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Sep 2022 – Oct 2023\n\n\n\nUniversity of York, UK\n\n\nAwaiting Graduation\n\n\n\n\nSep 2018 – Jun 2020\n\n\n\nUniversity of Kerala, India\n\n\n\n\nAug 2013 – Apr 2016\n\n\n\nUniversity of Kerala, India\n\n\n\n\nJun 2010 – Apr 2013\n\n\n\nUniversity of Calicut, India"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Sep 2022 – Oct 2023\n\n\n\nUniversity of York, UK\n\n\nAwaiting Graduation\n\n\n\n\nSep 2018 – Jun 2020\n\n\n\nUniversity of Kerala, India\n\n\n\n\nAug 2013 – Apr 2016\n\n\n\nUniversity of Kerala, India\n\n\n\n\nJun 2010 – Apr 2013\n\n\n\nUniversity of Calicut, India"
+  },
+  {
+    "objectID": "education.html#work-experience",
+    "href": "education.html#work-experience",
+    "title": "Education & Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\n\nJul 2025 – Ongoing\n\n\nLanguage Analyst\n\n\n International Centre for Free and Open Source Software (ICFOSS) \n\n\n\nContributed to the development of a 100+ hour dialectal speech corpus for automatic speech recognition (ASR) systems and carried out socio-phonetic analysis for variation and dialect studies.\n\n\nDefined phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives.\n\n\nProcessed and curated a 300K-token Malayalam corpus for POS, chunking, NER tagging and ensured quality and consistency for LLM training.\n\n\nDeveloped a 170K-word Malayalam lexical dictionary with systematic rule-based validation and quality assurance.\n\n\n\n\n\nOct 2023 – Nov 2023\n\n\nPhonetics Intern\n\n\n Living Tongues Institute for Endangered Languages (LTIEL) \n\n\n\nConducted data annotation and segmentation for Mundari, a Munda language of the Austroasiatic family, using Praat.\n\n\nPerformed detailed acoustic and auditory analyses of speech data to identify key linguistic features.\n\n\nSupported language documentation efforts by analyzing phonetic and phonological patterns."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
     "text": "ANUGIL VELAYUDHAN\n\n\n[ˈanuɡil ˈʋeːlaːjud̪ʱan]\n\n\nLanguage Analyst | Phonetics | Phonology\n\n\n Kerala, India\n\n\n   \n\n\n\n\n\n\nനമസ്കാരം! I am a Language Analyst at the Language Technology and Data Science Lab at the  International Centre for Free and Open Source Software (ICFOSS) , Kerala, India. I am currently engaged in the Discourse-Integrated Dravidian Language to Dravidian Machine Translation Project (DL-Disco MT), which is part of the Bhashini initiative developed by the Ministry of Electronics and Information Technology (MeitY), Government of India. My role involves developing phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives, to develop computational models for Dravidian languages."
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "Sep 2022 – Oct 2023\n\n\nMSc Forensic Phonetics\n\n\nUniversity of York, UK\n\n\nAwaiting Graduation\n\n\n\n\n\nSep 2018 – Jun 2020\n\n\nMPhil Linguistics\n\n\nUniversity of Kerala, India\n\n\n\n\n\nAug 2013 – Apr 2016\n\n\nMA Linguistics\n\n\nUniversity of Kerala, India\n\n\n\n\n\nJun 2010 – Apr 2013\n\n\nBSc Chemistry\n\n\nUniversity of Calicut, India"
-  },
-  {
-    "objectID": "education.html#education",
-    "href": "education.html#education",
-    "title": "",
-    "section": "",
-    "text": "&lt;div class=\"edu-duration\"&gt;Sep 2022 – Sep 2023&lt;/div&gt;\n&lt;h3 class=\"edu-degree\"&gt;MSc Forensic Phonetics&lt;/h3&gt;\n&lt;p class=\"edu-institute\"&gt;University of York, UK&lt;/p&gt;\n&lt;p class=\"edu-details\"&gt;&lt;em&gt;Awaiting graduation&lt;/em&gt;&lt;/p&gt;\n\n\n\n&lt;div class=\"edu-duration\"&gt;Sep 2018 – Jun 2020&lt;/div&gt;\n&lt;h3 class=\"edu-degree\"&gt;MPhil Linguistics&lt;/h3&gt;\n&lt;p class=\"edu-institute\"&gt;University of Kerala, India&lt;/p&gt;\n\n\n\n&lt;div class=\"edu-duration\"&gt;Aug 2013 – Apr 2016&lt;/div&gt;\n&lt;h3 class=\"edu-degree\"&gt;MA Linguistics&lt;/h3&gt;\n&lt;p class=\"edu-institute\"&gt;University of Kerala, India&lt;/p&gt;\n\n\n\n&lt;div class=\"edu-duration\"&gt;Jun 2010 – Apr 2013&lt;/div&gt;\n&lt;h3 class=\"edu-degree\"&gt;BSc Chemistry&lt;/h3&gt;\n&lt;p class=\"edu-institute\"&gt;University of Calicut, India&lt;/p&gt;"
-  },
-  {
-    "objectID": "education.html#work-experience",
-    "href": "education.html#work-experience",
-    "title": "",
-    "section": "Work Experience",
-    "text": "Work Experience\n\n\n\n&lt;div class=\"work-duration\"&gt;Jul 2025 – Ongoing&lt;/div&gt;\n&lt;h3 class=\"work-role\"&gt;Language analyst&lt;/h3&gt;\n&lt;p class=\"work-company\"&gt;\n  &lt;a href=\"https://www.icfoss.in/\" target=\"_blank\"&gt;ICFOSS&lt;/a&gt;\n&lt;/p&gt;\n&lt;ul class=\"work-details\"&gt;\n  &lt;li&gt;Defined phonological, morphological, and syntactic rules...&lt;/li&gt;\n&lt;/ul&gt;"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Work Experience",
-    "section": "",
-    "text": "&lt;div class=\"work-duration\"&gt;Jul 2025 – Ongoing&lt;/div&gt;\n&lt;h3 class=\"work-role\"&gt;Language analyst&lt;/h3&gt;\n&lt;p class=\"work-company\"&gt;\n  &lt;a href=\"https://www.icfoss.in/\" target=\"_blank\" rel=\"noopener noreferrer\"&gt;\n    International Centre for Free and Open Source Software (ICFOSS)\n  &lt;/a&gt;\n&lt;/p&gt;\n&lt;ul class=\"work-details\"&gt;\n  &lt;li&gt;Defined phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives.&lt;/li&gt;\n  &lt;li&gt;Processed and curated a 300K-token Malayalam corpus for POS, chunking, NER tagging and ensured quality and consistency for LLM training.&lt;/li&gt;\n  &lt;li&gt;Developed a 170K-word Malayalam lexical dictionary with systematic rule-based validation and quality assurance.&lt;/li&gt;\n&lt;/ul&gt;\n\n\n\n&lt;div class=\"work-duration\"&gt;Oct 2023 – Nov 2023&lt;/div&gt;\n&lt;h3 class=\"work-role\"&gt;Phonetics intern&lt;/h3&gt;\n&lt;p class=\"work-company\"&gt;\n  &lt;a href=\"https://livingtongues.org/\" target=\"_blank\" rel=\"noopener noreferrer\"&gt;\n    Living Tongues Institute for Endangered Languages (LTIEL)\n  &lt;/a&gt;\n&lt;/p&gt;\n&lt;ul class=\"work-details\"&gt;\n  &lt;li&gt;Conducted data annotation and segmentation for Mundari, a Munda language of the Austroasiatic family, using Praat.&lt;/li&gt;\n  &lt;li&gt;Performed detailed acoustic and auditory analyses of speech data to identify key linguistic features.&lt;/li&gt;\n  &lt;li&gt;Supported language documentation efforts by analyzing phonetic and phonological patterns.&lt;/li&gt;\n&lt;/ul&gt;"
-  },
-  {
-    "objectID": "work.html#work-experience",
-    "href": "work.html#work-experience",
-    "title": "",
-    "section": "",
-    "text": "Duration: Jul 2025 – Ongoing\nCompany: International Centre for Free and Open Source Software (ICFOSS)\n\nDefined phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives.\n\nProcessed and curated a 300K-token Malayalam corpus for POS, chunking, NER tagging and ensured quality and consistency for LLM training.\n\nDeveloped a 170K-word Malayalam lexical dictionary with systematic rule-based validation and quality assurance.\n\n\n\n\nDuration: Oct 2023 – Nov 2023\nCompany: Living Tongues Institute for Endangered Languages (LTIEL)\n\nConducted data annotation and segmentation for Mundari, a Munda language of the Austroasiatic family, using Praat.\n\nPerformed detailed acoustic and auditory analyses of speech data to identify key linguistic features.\n\nSupported language documentation efforts by analyzing phonetic and phonological patterns."
   }
 ]

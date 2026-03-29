@@ -130,6 +130,7 @@ a:hover {
 
 /* ===== Biography Section ===== */
 .bio, .bio p {
+  font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
   text-align: justify;
   line-height: 1.6;
   font-size: 1.1rem;

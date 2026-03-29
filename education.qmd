@@ -1,38 +1,77 @@
 ---
-title: "Education"
+title: "Education & Experience"
 format: html
-css: education.css
+css: index.css
 ---
 
-<div class="education-section">
+## Education
 
-<!-- MSc Forensic Phonetics -->
-<div class="edu-card">
-  <div class="edu-duration">Sep 2022 – Oct 2023</div>
-  <h3 class="edu-degree">MSc Forensic Phonetics</h3>
-  <p class="edu-institute">University of York, UK</p>
-  <p class="edu-details"><em>Awaiting Graduation</em></p>
+<div class="card">
+
+<div class="card-item">
+<div class="card-date">Sep 2022 – Oct 2023</div>
+<h3>MSc Forensic Phonetics</h3>
+<p><a href="https://www.york.ac.uk/" target="_blank">University of York</a>, UK</p>
+<p class="subtle"><em>Awaiting Graduation</em></p>
 </div>
 
-<!-- MPhil Linguistics -->
-<div class="edu-card">
-  <div class="edu-duration">Sep 2018 – Jun 2020</div>
-  <h3 class="edu-degree">MPhil Linguistics</h3>
-  <p class="edu-institute">University of Kerala, India</p>
+<div class="card-item">
+<div class="card-date">Sep 2018 – Jun 2020</div>
+<h3>MPhil Linguistics</h3>
+<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
 </div>
 
-<!-- MA Linguistics -->
-<div class="edu-card">
-  <div class="edu-duration">Aug 2013 – Apr 2016</div>
-  <h3 class="edu-degree">MA Linguistics</h3>
-  <p class="edu-institute">University of Kerala, India</p>
+<div class="card-item">
+<div class="card-date">Aug 2013 – Apr 2016</div>
+<h3>MA Linguistics</h3>
+<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
 </div>
 
-<!-- BSc Chemistry -->
-<div class="edu-card">
-  <div class="edu-duration">Jun 2010 – Apr 2013</div>
-  <h3 class="edu-degree">BSc Chemistry</h3>
-  <p class="edu-institute">University of Calicut, India</p>
+<div class="card-item">
+<div class="card-date">Jun 2010 – Apr 2013</div>
+<h3>BSc Chemistry</h3>
+<p><a href="https://uoc.ac.in/" target="_blank">University of Calicut</a>, India</p>
+</div>
+
+</div>
+
+---
+
+## Work Experience
+
+<div class="card">
+
+<div class="card-item">
+<div class="card-date">Jul 2025 – Ongoing</div>
+<h3>Language Analyst</h3>
+<p>
+<a href="https://www.icfoss.in/" target="_blank">
+International Centre for Free and Open Source Software (ICFOSS)
+</a>
+</p>
+
+<ul>
+<li> Contributed to the development of a 100+ hour dialectal speech corpus for automatic speech recognition (ASR) systems and carried out socio-phonetic analysis for variation and dialect studies. </li>
+<li>Defined phonological, morphological, and syntactic rules for large-scale Malayalam data preparation, including clause boundary detection, anaphora resolution, and discourse connectives.</li>
+<li>Processed and curated a 300K-token Malayalam corpus for POS, chunking, NER tagging and ensured quality and consistency for LLM training.</li>
+<li>Developed a 170K-word Malayalam lexical dictionary with systematic rule-based validation and quality assurance.</li>
+</ul>
+</div>
+
+<div class="card-item">
+<div class="card-date">Oct 2023 – Nov 2023</div>
+<h3>Phonetics Intern</h3>
+<p>
+<a href="https://livingtongues.org/" target="_blank">
+Living Tongues Institute for Endangered Languages (LTIEL)
+</a>
+</p>
+
+<ul>
+<li>Conducted data annotation and segmentation for Mundari, a Munda language of the Austroasiatic family, using <strong>Praat</strong>.</li>
+<li>Performed detailed acoustic and auditory analyses of speech data to identify key linguistic features.</li>
+<li>Supported language documentation efforts by analyzing phonetic and phonological patterns.</li>
+</ul>
 </div>
 
 </div>
