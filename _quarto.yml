@@ -22,6 +22,7 @@ format:
   html:
     theme: lux
     css:
+      - global.css
       - index.css
       - education.css
     toc: true
