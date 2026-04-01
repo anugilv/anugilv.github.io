@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "###Site under Construction. Thank you for trhe patience!"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "",
+    "section": "",
+    "text": "###Site under Construction. Thank you for trhe patience!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "ANUGIL VELAYUDHAN\n\n\n[ˈanuɡil ˈʋeːlaːjud̪ʱan]\n\n\nLanguage Analyst | Phonetics | Phonology\n\n\n Kerala, India\n\n\n   \n\n\n\n\n\n\nനമസ്കാരം! I am a Language Analyst at the Language Technology and Data Science Lab at the  International Centre for Free and Open Source Software (ICFOSS) , Kerala, India. I am currently engaged in the Discourse-Integrated Dravidian Language to Dravidian Machine Translation Project (DL-Disco MT), which is part of the Bhashini initiative developed by the Ministry of Electronics and Information Technology (MeitY), Government of India. My role involves developing phonological, morphological, and syntactic rules for curating large-scale Malayalam corpora. I also perform POS tagging, chunking, NER, clause boundary detection, anaphora resolution, and discourse connective marking. My goal is to contribute linguistic insights for the development of computational models of Dravidian languages."
+  },
+  {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education & Experience",
@@ -26,12 +47,5 @@
     "title": "Education & Experience",
     "section": "Certifications",
     "text": "Certifications\n\n\n\n2026\n\n\nR for Data Science\n\n\n Cognitive Class AI\n\n\n\n\n2026\n\n\nPython for Data Science\n\n\n Cognitive Class AI\n\n\n\n\n2022\n\n\nGATE – Linguistics\n\n\n Indian Institute of Technology Kharagpur, India.\n\n\nAll India Rank of 58.\n\n\n\n\n2016\n\n\nDiploma in Computer Application (DCA)\n\n\n Centre for Continuing Education, Government of Kerala, India."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "ANUGIL VELAYUDHAN\n\n\n[ˈanuɡil ˈʋeːlaːjud̪ʱan]\n\n\nLanguage Analyst | Phonetics | Phonology\n\n\n Kerala, India\n\n\n   \n\n\n\n\n\n\nനമസ്കാരം! I am a Language Analyst at the Language Technology and Data Science Lab at the  International Centre for Free and Open Source Software (ICFOSS) , Kerala, India. I am currently engaged in the Discourse-Integrated Dravidian Language to Dravidian Machine Translation Project (DL-Disco MT), which is part of the Bhashini initiative developed by the Ministry of Electronics and Information Technology (MeitY), Government of India. My role involves developing phonological, morphological, and syntactic rules for curating large-scale Malayalam corpora. I also perform POS tagging, chunking, NER, clause boundary detection, anaphora resolution, and discourse connective marking. My goal is to contribute linguistic insights for the development of computational models of Dravidian languages."
   }
 ]

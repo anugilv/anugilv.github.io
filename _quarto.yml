@@ -25,5 +25,6 @@ format:
       - global.css
       - index.css
       - education.css
+      - publications.css
     toc: true
     
