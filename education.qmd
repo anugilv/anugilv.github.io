@@ -4,39 +4,6 @@ format: html
 css: index.css
 ---
 
-## Education
-
-<div class="card">
-
-<div class="card-item">
-<div class="card-date">Sep 2022 – Oct 2023</div>
-<h3>MSc Forensic Phonetics</h3>
-<p><a href="https://www.york.ac.uk/" target="_blank">University of York</a>, UK</p>
-<p class="subtle"><em>Awaiting Graduation</em></p>
-</div>
-
-<div class="card-item">
-<div class="card-date">Sep 2018 – Jun 2020</div>
-<h3>MPhil Linguistics</h3>
-<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
-</div>
-
-<div class="card-item">
-<div class="card-date">Aug 2013 – Apr 2016</div>
-<h3>MA Linguistics</h3>
-<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
-</div>
-
-<div class="card-item">
-<div class="card-date">Jun 2010 – Apr 2013</div>
-<h3>BSc Chemistry</h3>
-<p><a href="https://uoc.ac.in/" target="_blank">University of Calicut</a>, India</p>
-</div>
-
-</div>
-
----
-
 ## Work Experience
 
 <div class="card">
@@ -72,6 +39,70 @@ Living Tongues Institute for Endangered Languages (LTIEL)
 <li>Performed detailed acoustic and auditory analyses of speech data to identify key linguistic features.</li>
 <li>Supported language documentation efforts by analyzing phonetic and phonological patterns.</li>
 </ul>
+</div>
+
+</div>
+
+## Education
+
+<div class="card">
+
+<div class="card-item">
+<div class="card-date">Sep 2022 – Oct 2023</div>
+<h3>MSc Forensic Phonetics</h3>
+<p><a href="https://www.york.ac.uk/" target="_blank">University of York</a>, UK</p>
+<p class="subtle"><em>Awaiting Graduation</em></p>
+</div>
+
+<div class="card-item">
+<div class="card-date">Sep 2018 – Jun 2020</div>
+<h3>MPhil Linguistics</h3>
+<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
+</div>
+
+<div class="card-item">
+<div class="card-date">Aug 2013 – Apr 2016</div>
+<h3>MA Linguistics</h3>
+<p><a href="https://www.keralauniversity.ac.in/" target="_blank">University of Kerala</a>, India</p>
+</div>
+
+<div class="card-item">
+<div class="card-date">Jun 2010 – Apr 2013</div>
+<h3>BSc Chemistry</h3>
+<p><a href="https://uoc.ac.in/" target="_blank">University of Calicut</a>, India</p>
+</div>
+
+</div>
+
+---
+
+## Certifications
+
+<div class="card">
+
+<div class="card-item">
+<div class="card-date">2026</div>
+<h3>R for Data Science</h3>
+<p><a href="https://cognitiveclass.ai/" target="_blank"> Cognitive Class AI</a> </p>
+</div>
+
+<div class="card-item">
+<div class="card-date">2026</div>
+<h3>Python for Data Science</h3>
+<p><a href="https://cognitiveclass.ai/" target="_blank"> Cognitive Class AI</a> </p>
+</div>
+
+<div class="card-item">
+<div class="card-date">2022</div>
+<h3> GATE – Linguistics</h3>
+<p><a href="https://www.iitkgp.ac.in/" target="_blank"> Indian Institute of Technology Kharagpur</a>, India.</p> 
+<p>All India Rank of 58.</p>
+</div>
+
+<div class="card-item">
+<div class="card-date">2016</div>
+<h3>Diploma in Computer Application (DCA)</h3>
+<p><a href="https://www.ccek.org/" target="_blank"> Centre for Continuing Education, Government of Kerala</a>, India.</p>
 </div>
 
 </div>

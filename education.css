@@ -1,8 +1,9 @@
 /* ===== Card Component (Clean + Minimal) ===== */
 
 .card-item {
-  padding: 1.2rem 1.3rem;
-  margin-bottom: 1rem;
+  padding: 0.8rem 1rem;   
+  margin-bottom: 0.6rem;  
+  border-radius: 9px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -20,7 +21,7 @@
 
 /* ===== Typography ===== */
 
-/* Section titles (Education, Work Experience) */
+/* Section titles (Education, Work Experience, Certifications) */
 h2 {
   font-family: "Charis SIL", "Doulos SIL", "Noto Sans", Arial, sans-serif;
   font-size: 1.4rem;
@@ -48,7 +49,7 @@ h2 {
   font-size: 1rem;
   font-weight: 450;
   color: #111;
-  line-height: 1.65;
+  line-height: 1.60;
 }
 
 /* Justify only list items */
